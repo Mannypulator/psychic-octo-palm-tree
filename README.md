@@ -1,6 +1,6 @@
 # Number Classification API
 
-This project is a NestJS-based API that classifies a given number by calculating its mathematical properties and returning a fun fact sourced from the Numbers API ([numbersapi.com](http://numbersapi.com)). It is designed to be deployed as a serverless function on Vercel.
+This project is a NestJS-based API that classifies a given number by calculating its mathematical properties and returning a fun fact sourced from the Numbers API ([numbersapi.com](http://numbersapi.com)).
 
 ## Table of Contents
 
